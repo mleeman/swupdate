@@ -1,1 +1,4 @@
 swupdate source: debian-rules-sets-DEB_BUILD_OPTIONS
+swupdate source: source-nmu-has-incorrect-version-number
+swupdate source: source-is-missing
+swupdate source: debian-watch-file-in-native-package
