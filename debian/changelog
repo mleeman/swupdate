@@ -5,6 +5,9 @@ swupdate (2020.01~televic10+1) buster-televic-unstable; urgency=medium
   * debian: build-dep on libsystemd-dev
   * debian: depend on libcmocka-dev
   * debian: add source lintian-overrides
+  * web-app: remove x flag
+  * add lintian-overrides
+  * debian: do not run tests
   * port to televic infra
 
  -- Marc Leeman <m.leeman@televic.com>  Wed, 29 Jan 2020 09:29:00 +0100
