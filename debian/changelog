@@ -8,6 +8,7 @@ swupdate (2020.01~televic10+1) buster-televic-unstable; urgency=medium
   * web-app: remove x flag
   * add lintian-overrides
   * debian: do not run tests
+  * examples: remove -x flag
   * port to televic infra
 
  -- Marc Leeman <m.leeman@televic.com>  Wed, 29 Jan 2020 09:29:00 +0100
