@@ -1,3 +1,9 @@
+swupdate (2020.01~televic10+2) buster-televic-unstable; urgency=medium
+
+  * debian: build televic config
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 29 Jan 2020 16:01:18 +0100
+
 swupdate (2020.01~televic10+1) buster-televic-unstable; urgency=medium
 
   * Non-maintainer Upload
